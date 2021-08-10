@@ -1,0 +1,22 @@
+{
+  "name": "coruscatedemotest",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "csvtojson": "^2.0.10",
+    "debug": "^2.6.9",
+    "express": "^4.16.4",
+    "http-errors": "^1.6.3",
+    "mongoose": "^5.13.5",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.12",
+    "path": "^0.12.7",
+    "pug": "2.0.0-beta11",
+    "streamifier": "^0.1.1"
+  }
+}
